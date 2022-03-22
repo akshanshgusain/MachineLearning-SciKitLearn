@@ -46,8 +46,5 @@ def my_regression():
     # plt.show()
 
 
-
-
-
 if __name__ == '__main__':
     my_regression()
